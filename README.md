@@ -34,3 +34,5 @@ Coming Soon
 [![Run on Repl.it](https://repl.it/badge/github/replit/replbox)](https://replit.com/github/TheAxes/massdm-selfbot)
 
 <a href="https://www.buymeacoffee.com/AshOp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+Support If Needed - Discord.gg/teamofaxe
